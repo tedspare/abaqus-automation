@@ -25,3 +25,6 @@ After the major bugs in the code were ironed out, a glaring flaw in the optimiza
 To remedy this problem, we manually fine-tuned the part after coarse-grained optimization by the *algorithm*.
 
 In the future, having learned the basics of the ABAQUS-Python interface, I would implement a state-of-the-art optimization algorithm while focusing on speed, convergence, and verifiability.
+
+Here's what it looks like:
+![screencap](https://github.com/tedspare/abaqus-automation/blob/master/MECH321_DesignProject_Iterative_6.png)
